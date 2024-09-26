@@ -1,0 +1,21 @@
+textarea.form-control.card:focus {
+    background-color: var(--card-background-color);
+    color: var(--text-color);
+}
+
+input.form-control.card:focus {
+    background-color: var(--card-background-color);
+    color: var(--text-color);
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+.card {
+    background-color: var(--card-background-color);
+    color: var(--text-color);
+}
+
+
